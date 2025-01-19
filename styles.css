@@ -1,0 +1,284 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F1F1F3;
+}
+
+.mainbody{
+    width: 95%;
+    margin: auto;
+
+}
+
+
+.section-title{
+    font-weight: 24;
+    font-size: medium;
+    color: #0E0E0E;
+    opacity: 50%;
+}
+.hero{
+    display: flex;
+    background-color: #C6E4D6;
+    border-radius: 5px;
+    border-radius: 5px;
+    padding: 100px 80px;
+}
+section > div > h1{
+    font-weight: bold;
+    font-size: 56px;
+}
+.hero > div > button{
+    background-color: #006A50;
+    color: #FFFFFF;
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+}
+section > div > img{
+    width: 474px;
+    height: 400px;
+}
+
+.title{
+    color: #0E0E0E;
+    font-weight: bold;
+    font-size: 40px;
+    opacity: 100%;
+}
+.section-description{
+    color: #0E0E0E;
+    opacity: 70%;
+    font-size: 16px;
+}
+
+.card-1 {
+    background-color: #e5f1ff;
+    padding: 32px;
+    max-width: 25%;
+    border-radius: 5px;
+}
+
+
+.card-btn1 {
+    background-color: #5490F5;
+    width: 122px;
+    height: 41px;
+    padding: 15px;
+    border: none;
+    text-decoration: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 600;
+}
+
+.card-2 {
+    background-color: #C6E4D6;
+    max-width: 25%;
+    padding: 32px;
+    border-radius: 5px;
+}
+.card-title{
+    color: #0E0E0E;
+    opacity: 80%;
+    font-weight: bold;
+    font-size: 20px;
+}
+.btn-2{
+    background-color: #09A15C;
+    width: 122px;
+    height: 41px;
+    padding: 15px;
+    border: none;
+    text-decoration: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 600;
+}
+.card-3{
+    background-color: #F7EBCF;
+    padding: 32px;
+    max-width: 25%;
+    border-radius: 5px;
+}
+.btn-3{
+    background-color: #FFC239;
+    width: 122px;
+    height: 41px;
+    padding: 15px;
+    border: none;
+    text-decoration: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 600;
+}
+.vision{
+    display: flex;
+    justify-content: space-between;
+}
+.yunus{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+} 
+
+.yusufQuote {
+    background-image: url("../assets/quote-bg.png"); 
+    background-repeat: no-repeat ;
+}
+.al-jazeera{
+    width: 134px;
+    height: 40px;
+}
+.read-more-btn{
+    background-color: #006A50;
+    font-size: 18px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding: 20px;
+    border-radius: 5px;
+    border: none;
+    text-decoration: none;
+    width: 139px;
+    height: 50px;
+}
+.satelite{
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    display: flex;
+    gap: 20px;
+    padding: 48px;
+    margin-top: 20px;
+}
+.satelite-pic img {
+    width: 408px;
+    height: 306px;
+    border-radius: 20px;
+    
+}
+.date-time{
+    display: flex;
+    gap: 5px;
+}
+.donate{
+ 
+    text-align: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.same-option{
+    max-width: 30%;
+    height: auto;
+    background-color: #FFFFFF;
+    color: #0E0E0E;
+    padding: 20px;
+    border-radius: 5px;
+}
+.exception{
+    background-color: #C6E4D6;
+    color: #0E0E0E ;
+    max-width: 30%;
+    height: auto;
+    padding: 20px;
+    border-radius: 5px;
+}
+.input{
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
+.done-btn{
+    background-color: #006A50;
+    color: #FFFFFF;
+    text-align: center;
+    width: 151px;
+    height: 56px;
+    padding: 20px;
+    border-radius: 5px;
+    border: none;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 18px;
+}
+div > button > .done-btn{
+    justify-content: center;
+}
+
+
+.donate-option button{
+    justify-content: center;
+
+    align-content: center;
+}
+
+.tk{
+    padding: 20px;
+    margin: 10PX;
+    border-radius: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: white;
+    border: none;
+    opacity: 8
+    0%;
+}
+.selectedtk{
+    background-color: #C6E4D6;
+}
+
+.amountField{
+    width: 500px;
+    height: 40px;
+    border: none;
+    text-align: center;
+}
+.newsletter{
+    background-color: #C6E4D6;
+    margin-top: 80px;
+    padding: 50px;
+    border-radius: 15px;
+}
+.input{
+    display: flex;
+    justify-content: center;
+}
+.title-description{
+    text-align: center;
+}
+.end{
+    text-align: center;
+    color: #0E0E0E;
+    opacity: 70%;
+}
+.submit{
+    background-color: #006A50;
+    width: 120px;
+    height: 40px;
+    border: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.email{
+    width: 600px;
+    height: 40px;
+    margin-left: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: none;
+    text-decoration: none;
+    padding: 0 10px 0 29px;
+}
+.media{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.bng-2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+}
